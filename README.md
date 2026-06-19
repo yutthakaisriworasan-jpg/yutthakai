@@ -1,7 +1,7 @@
 
 # สวัสดีครับ 👋 ผมชื่อ ยุทธไกร  
 
-💻 **Aspiring Full Stack & Data Engineer**  
+💻 **Aspiring Full Stack Dev
 - 🔹 กำลังพัฒนา Portfolio โปรเจคจริง เช่น FastAPI + PostgreSQL + Docker  
 - 🔹 สนใจ Blockchain, Web3, และ Cloud-Native Development  
 - 🔹 เป้าหมาย: สร้าง Portfolio ที่แข็งแรงภายใน 6 เดือน  
@@ -12,10 +12,25 @@
 - **Databases:** PostgreSQL, MongoDB  
 - **Tools:** Docker, GitHub , Airflow  
 
-## 📂 Featured Projects
-- [Data Engineer Pipeline](https://github.com/yutthakai/data-engineer-project)  
-- [E-commerce Backend (FastAPI)](https://github.com/yutthakai/ecommerce-backend)  
+---
+## 🚀 Featured Data Engineering Project
 
+<div align="center">
+  <h3>📊 E-commerce Data Pipeline (End-to-End)</h3>
+  <p>สร้างท่อส่งข้อมูลอัตโนมัติด้วย Apache Airflow สำหรับดึงและแปลงข้อมูล E-commerce</p>
+  
+  <a href="https://github.com/yutthakaisriworasan-jpg/yutthakai-ecommerce-airflow-pipeline">
+    <img src="https://img.shields.io/badge/View_Project-Click_Here-blue?style=for-the-badge&logo=github" alt="View Project" />
+  </a>
+</div>
+
+**Highlights:**
+* ⚙️ **Orchestration:** ใช้ Apache Airflow จัดการ Workflow ทั้งหมด
+* ☁️ **Cloud Native:** สั่งสร้าง GCS Bucket อัตโนมัติด้วย Infrastructure as Code
+* 📈 **Transformation:** ใช้ Pandas จัดระเบียบข้อมูลดิบให้พร้อมใช้งานในระดับ Production
+* 🐳 **Environment:** รันระบบผ่าน Docker Container ครบจบในเครื่องเดียว
+
+---
 ## 🌱 Learning
 - FastAPI + PostgreSQL  
 - DevOps Pipeline (CI/CD)  
