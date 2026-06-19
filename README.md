@@ -7,15 +7,14 @@
 - 🔹 เป้าหมาย: สร้าง Portfolio ที่แข็งแรงภายใน 6 เดือน  
 
 ## 🚀 Skills
-- **Languages:** Python, SQL, javascript ,
-- **Frameworks:** FastAPI, Flask , Node.js
+- **Languages:** Python, SQL, javascript 
+- **Frameworks:** FastAPI, Flask , Node.js 
 - **Databases:** PostgreSQL, MongoDB  
 - **Tools:** Docker, GitHub , Airflow  
 
 ## 📂 Featured Projects
 - [Data Engineer Pipeline](https://github.com/yutthakai/data-engineer-project)  
 - [E-commerce Backend (FastAPI)](https://github.com/yutthakai/ecommerce-backend)  
-- [Blockchain DApp](https://github.com/yutthakai/web3-dapp)  
 
 ## 🌱 Learning
 - FastAPI + PostgreSQL  
@@ -24,8 +23,5 @@
 
 ## 📫 Contact
 - Email: yutthakaisriworasan@gmail.com  
-- LinkedIn: -  
-
----
-
-
+- LinkedIn: -
+  
