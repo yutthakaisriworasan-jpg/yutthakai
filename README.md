@@ -1,4 +1,3 @@
-<img src="https://example.com/myimage.png" width="200" align="center">
 
 # สวัสดีครับ 👋 ผมชื่อ ยุทธไกร  
 
